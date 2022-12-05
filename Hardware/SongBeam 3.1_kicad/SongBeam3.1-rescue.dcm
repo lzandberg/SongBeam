@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADAU7002ACBZ-R7-ADAU7002ACBZ-R7
+F https://componentsearchengine.com/Datasheets/2/ADAU7002ACBZ-R7.pdf
+$ENDCMP
+#
+$CMP DMG3415U-7-DMG3415U-7
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA23/1579852.pdf
+$ENDCMP
+#
+$CMP LP5907MFX-3.3_NOPB-LP5907MFX-3.3_NOPB
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU2/DSASFU100037200.pdf
+$ENDCMP
+#
+$CMP PTS815_SJM_250_SMTR_LFS-PTS815_SJM_250_SMTR_LFS
+F https://componentsearchengine.com/Datasheets/1/PTS815 SJM 250 SMTR LFS.pdf
+$ENDCMP
+#
+$CMP SN74LV1T34DBVR-SN74LV1T34DBVR
+F http://www.ti.com/lit/gpn/sn74lv1t34
+$ENDCMP
+#
+$CMP TEENSY_4.1-TEENSY_4.1
+F https://www.pjrc.com/store/teensy41.html
+$ENDCMP
+#
+#End Doc Library
