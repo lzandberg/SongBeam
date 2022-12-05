@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/Users/lieszandberg/Dropbox (Personal)/Leverhulme fellowship/SoundRecorders/Soundrecorder2.0/Soundrecorder 2.0/Soundrecorder 2.0.sch</source>
+    <date>2022 June 10, Friday 11:26:17</date>
+    <tool>Eeschema (5.1.4-0-10_14)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Soundrecorder 2.0.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="R5">
+      <value>100R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62995A99</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>47pF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62996ABF</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>100K</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>629971EB</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>629A3A2A</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>100R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>629A3A42</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>47pF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>629A3A4D</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>100K</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>629A3A57</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>100nF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>629942F9</tstamp>
+    </comp>
+    <comp ref="MC_LEFT_1">
+      <value>IM69D130</value>
+      <footprint>Sensor_Audio:Infineon_PG-LLGA-5-1</footprint>
+      <datasheet>https://www.infineon.com/dgdl/Infineon-IM69D130-DS-v01_00-EN.pdf?fileId=5546d462602a9dc801607a0e46511a2e</datasheet>
+      <libsource lib="Sensor_Audio" part="IM69D130" description="High performance digital XENSIV MEMS microphone, -36 dBFS Sensitivity, LLGA-5"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62990792</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>100nF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>629B9A64</tstamp>
+    </comp>
+    <comp ref="IC9">
+      <value>LP5907MFX-1.8_NOPB</value>
+      <footprint>SOT95P280X145-5N</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU2/DSASFU100037200.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">LP5907MFX-3.3/NOPB</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/lp5907mfx-3.3nopb/texas-instruments?region=nac</field>
+        <field name="Description">TEXAS INSTRUMENTS - LP5907MFX-3.3/NOPB - LDO, FIXED, 3.3V, 0.25A, SOT-23-5</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">LP5907MFX-3.3/NOPB</field>
+        <field name="Mouser Part Number">595-LP5907MFX-3.3NPB</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LP5907MFX-33-NOPB?qs=biyDIajrTn6NhrJCoL%2FdSQ%3D%3D</field>
+      </fields>
+      <libsource lib="LP5907MFX-3.3_NOPB" part="LP5907MFX-3.3_NOPB" description="TEXAS INSTRUMENTS - LP5907MFX-3.3/NOPB - LDO, FIXED, 3.3V, 0.25A, SOT-23-5"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6296CD08</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>629FA860</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>629FB37F</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>TPL5110</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tpl5110.pdf</datasheet>
+      <libsource lib="Timer" part="TPL5110" description="Timer, Nano Power, Active-Low, 35 nA, 100 ms to 7200 s, VDD 1.8V to 5.5V, Iout max 1mA, SOT-23-6"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62B65BD1</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>100K</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62B81163</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>1M</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62B92859</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>1μF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62BA032B</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62BB359A</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>DMG3415U-7</value>
+      <footprint>SOT96P240X120-3N</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA23/1579852.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">DMG3415U-7</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/dmg3415u-7/diodes-incorporated?region=nac</field>
+        <field name="Description">P-CHANNEL ENHANCEMENT MODE MOSFET</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Diodes Inc.</field>
+        <field name="Manufacturer_Part_Number">DMG3415U-7</field>
+        <field name="Mouser Part Number">621-DMG3415U-7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMG3415U-7?qs=oUsD4qhOtFwqFLkI6WCRAA%3D%3D</field>
+      </fields>
+      <libsource lib="DMG3415U-7" part="DMG3415U-7" description="P-CHANNEL ENHANCEMENT MODE MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62BC310C</tstamp>
+    </comp>
+    <comp ref="IC10">
+      <value>TEENSY_4.1</value>
+      <footprint>TEENSY41</footprint>
+      <datasheet>https://www.pjrc.com/store/teensy41.html</datasheet>
+      <fields>
+        <field name="Description">Teensy 4.1 Development Board</field>
+        <field name="Manufacturer_Name">PJRC</field>
+        <field name="Manufacturer_Part_Number">TEENSY 4.1</field>
+      </fields>
+      <libsource lib="TEENSY_4.1" part="TEENSY_4.1" description="Teensy 4.1 Development Board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CB1A9F</tstamp>
+    </comp>
+    <comp ref="IC1">
+      <value>SN74LV1T34DBVR</value>
+      <footprint>SOT95P280X145-5N</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74lv1t34</datasheet>
+      <fields>
+        <field name="Arrow Part Number">SN74LV1T34DBVR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/sn74lv1t34dbvr/texas-instruments?region=nac</field>
+        <field name="Description">Single Power Supply BUFFER Logic Level Shifter (no enable)</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">SN74LV1T34DBVR</field>
+        <field name="Mouser Part Number">595-SN74LV1T34DBVR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LV1T34DBVR?qs=8sOby8ZxZLE4ekkxA3S6Wg%3D%3D</field>
+      </fields>
+      <libsource lib="SN74LV1T34DBVR" part="SN74LV1T34DBVR" description="Single Power Supply BUFFER Logic Level Shifter (no enable)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6298C748</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>629DD8F0</tstamp>
+    </comp>
+    <comp ref="IC2">
+      <value>SN74LV1T34DBVR</value>
+      <footprint>SOT95P280X145-5N</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74lv1t34</datasheet>
+      <fields>
+        <field name="Arrow Part Number">SN74LV1T34DBVR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/sn74lv1t34dbvr/texas-instruments?region=nac</field>
+        <field name="Description">Single Power Supply BUFFER Logic Level Shifter (no enable)</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">SN74LV1T34DBVR</field>
+        <field name="Mouser Part Number">595-SN74LV1T34DBVR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LV1T34DBVR?qs=8sOby8ZxZLE4ekkxA3S6Wg%3D%3D</field>
+      </fields>
+      <libsource lib="SN74LV1T34DBVR" part="SN74LV1T34DBVR" description="Single Power Supply BUFFER Logic Level Shifter (no enable)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62990183</tstamp>
+    </comp>
+    <comp ref="MC_RIGHT_1">
+      <value>IM69D130</value>
+      <footprint>Sensor_Audio:Infineon_PG-LLGA-5-1</footprint>
+      <datasheet>https://www.infineon.com/dgdl/Infineon-IM69D130-DS-v01_00-EN.pdf?fileId=5546d462602a9dc801607a0e46511a2e</datasheet>
+      <libsource lib="Sensor_Audio" part="IM69D130" description="High performance digital XENSIV MEMS microphone, -36 dBFS Sensitivity, LLGA-5"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>629A3A0F</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>629C74C2</tstamp>
+    </comp>
+    <comp ref="IC3">
+      <value>SN74LV1T34DBVR</value>
+      <footprint>SOT95P280X145-5N</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74lv1t34</datasheet>
+      <fields>
+        <field name="Arrow Part Number">SN74LV1T34DBVR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/sn74lv1t34dbvr/texas-instruments?region=nac</field>
+        <field name="Description">Single Power Supply BUFFER Logic Level Shifter (no enable)</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">SN74LV1T34DBVR</field>
+        <field name="Mouser Part Number">595-SN74LV1T34DBVR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LV1T34DBVR?qs=8sOby8ZxZLE4ekkxA3S6Wg%3D%3D</field>
+      </fields>
+      <libsource lib="SN74LV1T34DBVR" part="SN74LV1T34DBVR" description="Single Power Supply BUFFER Logic Level Shifter (no enable)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6298E799</tstamp>
+    </comp>
+    <comp ref="IC4">
+      <value>ADAU7002ACBZ-R7</value>
+      <footprint>BGA8C40P2X4_76X156X56</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/2/ADAU7002ACBZ-R7.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">ADAU7002ACBZ-R7</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/adau7002acbz-r7/analog-devices?region=nac</field>
+        <field name="Description">ANALOG DEVICES - ADAU7002ACBZ-R7 - Audio Control, Sample Rate Converter, 1.62V to 3.6V, I2S, TDM, WLCSP, 8 Pins, -40 C</field>
+        <field name="Height">0.56</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">ADAU7002ACBZ-R7</field>
+        <field name="Mouser Part Number">584-ADAU7002ACBZ-R7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADAU7002ACBZ-R7?qs=BpaRKvA4VqE%2FEW%252BQvRs5Og%3D%3D</field>
+      </fields>
+      <libsource lib="ADAU7002ACBZ-R7" part="ADAU7002ACBZ-R7" description="ANALOG DEVICES - ADAU7002ACBZ-R7 - Audio Control, Sample Rate Converter, 1.62V to 3.6V, I2S, TDM, WLCSP, 8 Pins, -40 C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62968D7E</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6297DC4E</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>100R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63065420</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>47pF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6306542B</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>100K</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63065435</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>100nF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63065465</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>100R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63065473</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>47pF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6306547E</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>100K</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63065488</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>100nF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>630654DC</tstamp>
+    </comp>
+    <comp ref="MC_LEFT_2">
+      <value>IM69D130</value>
+      <footprint>Sensor_Audio:Infineon_PG-LLGA-5-1</footprint>
+      <datasheet>https://www.infineon.com/dgdl/Infineon-IM69D130-DS-v01_00-EN.pdf?fileId=5546d462602a9dc801607a0e46511a2e</datasheet>
+      <libsource lib="Sensor_Audio" part="IM69D130" description="High performance digital XENSIV MEMS microphone, -36 dBFS Sensitivity, LLGA-5"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>630654E7</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6306550C</tstamp>
+    </comp>
+    <comp ref="IC5">
+      <value>SN74LV1T34DBVR</value>
+      <footprint>SOT95P280X145-5N</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74lv1t34</datasheet>
+      <fields>
+        <field name="Arrow Part Number">SN74LV1T34DBVR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/sn74lv1t34dbvr/texas-instruments?region=nac</field>
+        <field name="Description">Single Power Supply BUFFER Logic Level Shifter (no enable)</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">SN74LV1T34DBVR</field>
+        <field name="Mouser Part Number">595-SN74LV1T34DBVR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LV1T34DBVR?qs=8sOby8ZxZLE4ekkxA3S6Wg%3D%3D</field>
+      </fields>
+      <libsource lib="SN74LV1T34DBVR" part="SN74LV1T34DBVR" description="Single Power Supply BUFFER Logic Level Shifter (no enable)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63065535</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>100nF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6306554C</tstamp>
+    </comp>
+    <comp ref="IC6">
+      <value>SN74LV1T34DBVR</value>
+      <footprint>SOT95P280X145-5N</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74lv1t34</datasheet>
+      <fields>
+        <field name="Arrow Part Number">SN74LV1T34DBVR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/sn74lv1t34dbvr/texas-instruments?region=nac</field>
+        <field name="Description">Single Power Supply BUFFER Logic Level Shifter (no enable)</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">SN74LV1T34DBVR</field>
+        <field name="Mouser Part Number">595-SN74LV1T34DBVR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LV1T34DBVR?qs=8sOby8ZxZLE4ekkxA3S6Wg%3D%3D</field>
+      </fields>
+      <libsource lib="SN74LV1T34DBVR" part="SN74LV1T34DBVR" description="Single Power Supply BUFFER Logic Level Shifter (no enable)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63065578</tstamp>
+    </comp>
+    <comp ref="MC_RIGHT_2">
+      <value>IM69D130</value>
+      <footprint>Sensor_Audio:Infineon_PG-LLGA-5-1</footprint>
+      <datasheet>https://www.infineon.com/dgdl/Infineon-IM69D130-DS-v01_00-EN.pdf?fileId=5546d462602a9dc801607a0e46511a2e</datasheet>
+      <libsource lib="Sensor_Audio" part="IM69D130" description="High performance digital XENSIV MEMS microphone, -36 dBFS Sensitivity, LLGA-5"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63065584</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>100nF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>630655A5</tstamp>
+    </comp>
+    <comp ref="IC8">
+      <value>ADAU7002ACBZ-R7</value>
+      <footprint>BGA8C40P2X4_76X156X56</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/2/ADAU7002ACBZ-R7.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">ADAU7002ACBZ-R7</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/adau7002acbz-r7/analog-devices?region=nac</field>
+        <field name="Description">ANALOG DEVICES - ADAU7002ACBZ-R7 - Audio Control, Sample Rate Converter, 1.62V to 3.6V, I2S, TDM, WLCSP, 8 Pins, -40 C</field>
+        <field name="Height">0.56</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">ADAU7002ACBZ-R7</field>
+        <field name="Mouser Part Number">584-ADAU7002ACBZ-R7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADAU7002ACBZ-R7?qs=BpaRKvA4VqE%2FEW%252BQvRs5Og%3D%3D</field>
+      </fields>
+      <libsource lib="ADAU7002ACBZ-R7" part="ADAU7002ACBZ-R7" description="ANALOG DEVICES - ADAU7002ACBZ-R7 - Audio Control, Sample Rate Converter, 1.62V to 3.6V, I2S, TDM, WLCSP, 8 Pins, -40 C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6306560E</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>100nF</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63065619</tstamp>
+    </comp>
+    <comp ref="IC7">
+      <value>SN74LV1T34DBVR</value>
+      <footprint>SOT95P280X145-5N</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74lv1t34</datasheet>
+      <fields>
+        <field name="Arrow Part Number">SN74LV1T34DBVR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/sn74lv1t34dbvr/texas-instruments?region=nac</field>
+        <field name="Description">Single Power Supply BUFFER Logic Level Shifter (no enable)</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">SN74LV1T34DBVR</field>
+        <field name="Mouser Part Number">595-SN74LV1T34DBVR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LV1T34DBVR?qs=8sOby8ZxZLE4ekkxA3S6Wg%3D%3D</field>
+      </fields>
+      <libsource lib="SN74LV1T34DBVR" part="SN74LV1T34DBVR" description="Single Power Supply BUFFER Logic Level Shifter (no enable)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>630655D1</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x02_MountingPin</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic_MountingPin" part="Conn_01x02_MountingPin" description="Generic connectable mounting pin connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62AE02CF</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x02_MountingPin</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic_MountingPin" part="Conn_01x02_MountingPin" description="Generic connectable mounting pin connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62B01B3C</tstamp>
+    </comp>
+    <comp ref="JP1">
+      <value>SolderJumper_2_Bridged</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Jumper" part="SolderJumper_2_Bridged" description="Solder Jumper, 2-pole, closed/bridged"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62B3F811</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>100R?</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62BB657F</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>150R?</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62BD795B</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>LED_ABRG</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_ABRG" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62C3AF7E</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62C3E9DC</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="ADAU7002ACBZ-R7" part="ADAU7002ACBZ-R7">
+      <description>ANALOG DEVICES - ADAU7002ACBZ-R7 - Audio Control, Sample Rate Converter, 1.62V to 3.6V, I2S, TDM, WLCSP, 8 Pins, -40 C</description>
+      <docs>https://componentsearchengine.com/Datasheets/2/ADAU7002ACBZ-R7.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">ADAU7002ACBZ-R7</field>
+        <field name="Footprint">BGA8C40P2X4_76X156X56</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/2/ADAU7002ACBZ-R7.pdf</field>
+        <field name="Description">ANALOG DEVICES - ADAU7002ACBZ-R7 - Audio Control, Sample Rate Converter, 1.62V to 3.6V, I2S, TDM, WLCSP, 8 Pins, -40 C</field>
+        <field name="Height">0.56</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">ADAU7002ACBZ-R7</field>
+        <field name="Mouser Part Number">584-ADAU7002ACBZ-R7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADAU7002ACBZ-R7?qs=BpaRKvA4VqE%2FEW%252BQvRs5Og%3D%3D</field>
+        <field name="Arrow Part Number">ADAU7002ACBZ-R7</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/adau7002acbz-r7/analog-devices?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="PDM_DAT" type="input"/>
+        <pin num="A2" name="PDM_CLK" type="output"/>
+        <pin num="B1" name="SDATA" type="output"/>
+        <pin num="B2" name="BCLK" type="input"/>
+        <pin num="C1" name="GND" type="power_in"/>
+        <pin num="C2" name="LRCLK" type="input"/>
+        <pin num="D1" name="IOVDD" type="power_in"/>
+        <pin num="D2" name="CONFIG" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic_MountingPin" part="Conn_01x02_MountingPin">
+      <description>Generic connectable mounting pin connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??-1MP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_MountingPin</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="MP" name="MountPin" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="DMG3415U-7" part="DMG3415U-7">
+      <description>P-CHANNEL ENHANCEMENT MODE MOSFET</description>
+      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA23/1579852.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">DMG3415U-7</field>
+        <field name="Footprint">SOT96P240X120-3N</field>
+        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA23/1579852.pdf</field>
+        <field name="Description">P-CHANNEL ENHANCEMENT MODE MOSFET</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Diodes Inc.</field>
+        <field name="Manufacturer_Part_Number">DMG3415U-7</field>
+        <field name="Mouser Part Number">621-DMG3415U-7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMG3415U-7?qs=oUsD4qhOtFwqFLkI6WCRAA%3D%3D</field>
+        <field name="Arrow Part Number">DMG3415U-7</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/dmg3415u-7/diodes-incorporated?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_ABRG">
+      <description>RGB LED, anode/blue/red/green</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_ABRG</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="BK" type="passive"/>
+        <pin num="3" name="RK" type="passive"/>
+        <pin num="4" name="GK" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Bridged">
+      <description>Solder Jumper, 2-pole, closed/bridged</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Bridged*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Bridged</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LP5907MFX-3.3_NOPB" part="LP5907MFX-3.3_NOPB">
+      <description>TEXAS INSTRUMENTS - LP5907MFX-3.3/NOPB - LDO, FIXED, 3.3V, 0.25A, SOT-23-5</description>
+      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU2/DSASFU100037200.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">LP5907MFX-3.3_NOPB</field>
+        <field name="Footprint">SOT95P280X145-5N</field>
+        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU2/DSASFU100037200.pdf</field>
+        <field name="Description">TEXAS INSTRUMENTS - LP5907MFX-3.3/NOPB - LDO, FIXED, 3.3V, 0.25A, SOT-23-5</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">LP5907MFX-3.3/NOPB</field>
+        <field name="Mouser Part Number">595-LP5907MFX-3.3NPB</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LP5907MFX-33-NOPB?qs=biyDIajrTn6NhrJCoL%2FdSQ%3D%3D</field>
+        <field name="Arrow Part Number">LP5907MFX-3.3/NOPB</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/lp5907mfx-3.3nopb/texas-instruments?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="EN" type="passive"/>
+        <pin num="4" name="N/C" type="NotConnected"/>
+        <pin num="5" name="OUT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SN74LV1T34DBVR" part="SN74LV1T34DBVR">
+      <description>Single Power Supply BUFFER Logic Level Shifter (no enable)</description>
+      <docs>http://www.ti.com/lit/gpn/sn74lv1t34</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">SN74LV1T34DBVR</field>
+        <field name="Footprint">SOT95P280X145-5N</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/sn74lv1t34</field>
+        <field name="Description">Single Power Supply BUFFER Logic Level Shifter (no enable)</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">SN74LV1T34DBVR</field>
+        <field name="Mouser Part Number">595-SN74LV1T34DBVR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LV1T34DBVR?qs=8sOby8ZxZLE4ekkxA3S6Wg%3D%3D</field>
+        <field name="Arrow Part Number">SN74LV1T34DBVR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/sn74lv1t34dbvr/texas-instruments?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="NotConnected"/>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="Y" type="passive"/>
+        <pin num="5" name="VCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor_Audio" part="IM69D120">
+      <aliases>
+        <alias>IM69D130</alias>
+      </aliases>
+      <description>High performance digital XENSIV MEMS microphone, -26 dBFS Sensitivity, LLGA-5</description>
+      <docs>https://www.infineon.com/dgdl/Infineon-IM69D120-DS-v01_00-EN.pdf?fileId=5546d462602a9dc801607a0e41a01a2b</docs>
+      <footprints>
+        <fp>Infineon*PG*LLGA*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">MK</field>
+        <field name="Value">IM69D120</field>
+        <field name="Footprint">Sensor_Audio:Infineon_PG-LLGA-5-1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DATA" type="output"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="CLOCK" type="input"/>
+        <pin num="4" name="SELECT" type="input"/>
+        <pin num="5" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TEENSY_4.1" part="TEENSY_4.1">
+      <description>Teensy 4.1 Development Board</description>
+      <docs>https://www.pjrc.com/store/teensy41.html</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TEENSY_4.1</field>
+        <field name="Footprint">TEENSY41</field>
+        <field name="Datasheet">https://www.pjrc.com/store/teensy41.html</field>
+        <field name="Description">Teensy 4.1 Development Board</field>
+        <field name="Manufacturer_Name">PJRC</field>
+        <field name="Manufacturer_Part_Number">TEENSY 4.1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TX1" type="passive"/>
+        <pin num="2" name="OUT2" type="passive"/>
+        <pin num="3" name="LRCLK2" type="passive"/>
+        <pin num="4" name="BCLK2" type="passive"/>
+        <pin num="5" name="IN2" type="passive"/>
+        <pin num="6" name="OUT1D" type="passive"/>
+        <pin num="7" name="RX2" type="passive"/>
+        <pin num="8" name="TX2" type="passive"/>
+        <pin num="9" name="OUT1C" type="passive"/>
+        <pin num="10" name="CS_1" type="passive"/>
+        <pin num="11" name="MOSI" type="passive"/>
+        <pin num="12" name="MISO" type="passive"/>
+        <pin num="13" name="SCK" type="passive"/>
+        <pin num="14" name="A0" type="passive"/>
+        <pin num="15" name="A1" type="passive"/>
+        <pin num="16" name="A2" type="passive"/>
+        <pin num="17" name="A3" type="passive"/>
+        <pin num="18" name="A4" type="passive"/>
+        <pin num="19" name="A5" type="passive"/>
+        <pin num="20" name="A6" type="passive"/>
+        <pin num="21" name="A7" type="passive"/>
+        <pin num="22" name="A8" type="passive"/>
+        <pin num="23" name="A9" type="passive"/>
+        <pin num="24" name="A10" type="passive"/>
+        <pin num="25" name="A11" type="passive"/>
+        <pin num="26" name="A12" type="passive"/>
+        <pin num="27" name="A13" type="passive"/>
+        <pin num="28" name="RX7" type="passive"/>
+        <pin num="29" name="TX7" type="passive"/>
+        <pin num="30" name="CRX3" type="passive"/>
+        <pin num="31" name="CTX3" type="passive"/>
+        <pin num="32" name="OUT1B" type="passive"/>
+        <pin num="33" name="MCLK2" type="passive"/>
+        <pin num="34" name="RX8" type="passive"/>
+        <pin num="35" name="TX8" type="passive"/>
+        <pin num="36" name="CS_2" type="passive"/>
+        <pin num="37" name="CS_3" type="passive"/>
+        <pin num="38" name="A14" type="passive"/>
+        <pin num="39" name="A15" type="passive"/>
+        <pin num="40" name="A16" type="passive"/>
+        <pin num="41" name="A17" type="passive"/>
+        <pin num="42" name="3.3V_1" type="passive"/>
+        <pin num="43" name="VBAT" type="passive"/>
+        <pin num="44" name="3.3V_2" type="passive"/>
+        <pin num="45" name="GND_1" type="passive"/>
+        <pin num="46" name="PROGRAM" type="passive"/>
+        <pin num="47" name="ON/OFF" type="passive"/>
+        <pin num="48" name="GND_2" type="passive"/>
+        <pin num="49" name="GND_3" type="passive"/>
+        <pin num="50" name="D+" type="passive"/>
+        <pin num="51" name="D-" type="passive"/>
+        <pin num="52" name="+5V" type="passive"/>
+        <pin num="53" name="3.3V_(250_M_A_MAX)" type="passive"/>
+        <pin num="55" name="VIN_(3.6_TO_5.5_VOLTS)" type="passive"/>
+        <pin num="57" name="RX1" type="passive"/>
+        <pin num="68" name="VUSB" type="passive"/>
+        <pin num="69" name="GND_4" type="passive"/>
+        <pin num="70" name="GND_5" type="passive"/>
+        <pin num="71" name="GND_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Timer" part="TPL5110">
+      <description>Timer, Nano Power, Active-Low, 35 nA, 100 ms to 7200 s, VDD 1.8V to 5.5V, Iout max 1mA, SOT-23-6</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tpl5110.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPL5110</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="DELAY/M_DRV" type="input"/>
+        <pin num="4" name="DONE" type="input"/>
+        <pin num="5" name="DRV" type="output"/>
+        <pin num="6" name="EN/ONE_SHOT" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="ADAU7002ACBZ-R7">
+      <uri>/Users/lieszandberg/Downloads/LIB_ADAU7002ACBZ-R7/ADAU7002ACBZ-R7/KiCad/ADAU7002ACBZ-R7.lib</uri>
+    </library>
+    <library logical="Connector_Generic_MountingPin">
+      <uri>/Library/Application Support/kicad/library/Connector_Generic_MountingPin.lib</uri>
+    </library>
+    <library logical="DMG3415U-7">
+      <uri>/Users/lieszandberg/Downloads/LIB_DMG3415U-7/DMG3415U-7/KiCad/DMG3415U-7.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Library/Application Support/kicad/library/Device.lib</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>/Library/Application Support/kicad/library/Jumper.lib</uri>
+    </library>
+    <library logical="LP5907MFX-3.3_NOPB">
+      <uri>/Users/lieszandberg/Downloads/LIB_LP5907MFX-3/LP5907MFX-3.3_NOPB/KiCad/LP5907MFX-3.3_NOPB.lib</uri>
+    </library>
+    <library logical="SN74LV1T34DBVR">
+      <uri>/Users/lieszandberg/Downloads/LIB_SN74LV1T34DBVR/SN74LV1T34DBVR/KiCad/SN74LV1T34DBVR.lib</uri>
+    </library>
+    <library logical="Sensor_Audio">
+      <uri>/Library/Application Support/kicad/library/Sensor_Audio.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/Library/Application Support/kicad/library/Switch.lib</uri>
+    </library>
+    <library logical="TEENSY_4.1">
+      <uri>/Users/lieszandberg/Downloads/LIB_TEENSY_4/TEENSY_4.1/KiCad/TEENSY_4.1.lib</uri>
+    </library>
+    <library logical="Timer">
+      <uri>/Library/Application Support/kicad/library/Timer.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(MC_LEFT_1-Pad1)">
+      <node ref="MC_LEFT_1" pin="1"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="2" name="Net-(MC_RIGHT_1-Pad1)">
+      <node ref="MC_RIGHT_1" pin="1"/>
+      <node ref="R9" pin="1"/>
+    </net>
+    <net code="3" name="+1V8">
+      <node ref="IC8" pin="D2"/>
+      <node ref="C19" pin="2"/>
+      <node ref="IC8" pin="D1"/>
+      <node ref="C14" pin="1"/>
+      <node ref="MC_RIGHT_2" pin="2"/>
+      <node ref="IC5" pin="5"/>
+      <node ref="C12" pin="1"/>
+      <node ref="MC_LEFT_2" pin="4"/>
+      <node ref="MC_LEFT_2" pin="2"/>
+      <node ref="C16" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="C18" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="IC4" pin="D2"/>
+      <node ref="IC4" pin="D1"/>
+      <node ref="IC3" pin="5"/>
+      <node ref="C6" pin="2"/>
+      <node ref="MC_LEFT_1" pin="2"/>
+      <node ref="MC_LEFT_1" pin="4"/>
+      <node ref="C2" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="MC_RIGHT_1" pin="2"/>
+      <node ref="IC7" pin="5"/>
+      <node ref="IC1" pin="5"/>
+      <node ref="C7" pin="1"/>
+      <node ref="IC9" pin="5"/>
+    </net>
+    <net code="4" name="Earth">
+      <node ref="SW2" pin="2"/>
+      <node ref="D1" pin="1"/>
+      <node ref="R2" pin="2"/>
+      <node ref="C4" pin="1"/>
+      <node ref="C7" pin="2"/>
+      <node ref="IC9" pin="2"/>
+      <node ref="J1" pin="1"/>
+      <node ref="IC7" pin="3"/>
+      <node ref="C19" pin="1"/>
+      <node ref="IC8" pin="C1"/>
+      <node ref="U1" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="R3" pin="2"/>
+      <node ref="R4" pin="2"/>
+      <node ref="R7" pin="2"/>
+      <node ref="C17" pin="2"/>
+      <node ref="C14" pin="2"/>
+      <node ref="MC_RIGHT_2" pin="5"/>
+      <node ref="MC_RIGHT_2" pin="4"/>
+      <node ref="IC6" pin="3"/>
+      <node ref="C13" pin="2"/>
+      <node ref="IC5" pin="3"/>
+      <node ref="C12" pin="2"/>
+      <node ref="MC_LEFT_2" pin="5"/>
+      <node ref="C10" pin="1"/>
+      <node ref="C16" pin="1"/>
+      <node ref="C9" pin="2"/>
+      <node ref="R11" pin="2"/>
+      <node ref="R12" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C18" pin="1"/>
+      <node ref="R8" pin="2"/>
+      <node ref="C15" pin="2"/>
+      <node ref="IC1" pin="3"/>
+      <node ref="C8" pin="1"/>
+      <node ref="IC4" pin="C1"/>
+      <node ref="C3" pin="2"/>
+      <node ref="IC2" pin="3"/>
+      <node ref="IC3" pin="3"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C6" pin="1"/>
+      <node ref="MC_RIGHT_1" pin="4"/>
+      <node ref="MC_RIGHT_1" pin="5"/>
+      <node ref="MC_LEFT_1" pin="5"/>
+      <node ref="C2" pin="2"/>
+    </net>
+    <net code="5" name="Net-(C5-Pad1)">
+      <node ref="MC_LEFT_1" pin="3"/>
+      <node ref="MC_RIGHT_1" pin="3"/>
+      <node ref="R5" pin="2"/>
+      <node ref="C5" pin="1"/>
+      <node ref="R7" pin="1"/>
+      <node ref="R9" pin="2"/>
+      <node ref="C9" pin="1"/>
+      <node ref="R11" pin="1"/>
+      <node ref="IC4" pin="A1"/>
+      <node ref="IC4" pin="A2"/>
+    </net>
+    <net code="6" name="Net-(IC9-Pad4)">
+      <node ref="IC9" pin="4"/>
+    </net>
+    <net code="7" name="+3V3">
+      <node ref="C13" pin="1"/>
+      <node ref="IC2" pin="5"/>
+      <node ref="IC6" pin="5"/>
+      <node ref="C4" pin="2"/>
+      <node ref="IC9" pin="1"/>
+      <node ref="IC9" pin="3"/>
+      <node ref="C17" pin="1"/>
+      <node ref="C3" pin="1"/>
+    </net>
+    <net code="8" name="Net-(Q1-Pad1)">
+      <node ref="U1" pin="5"/>
+      <node ref="Q1" pin="1"/>
+    </net>
+    <net code="9" name="Net-(J2-Pad2)">
+      <node ref="Q1" pin="2"/>
+      <node ref="J2" pin="2"/>
+      <node ref="JP1" pin="1"/>
+    </net>
+    <net code="10" name="/DELAY">
+      <node ref="SW1" pin="1"/>
+      <node ref="U1" pin="3"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="11" name="Net-(IC10-Pad1)">
+      <node ref="IC10" pin="1"/>
+    </net>
+    <net code="12" name="Net-(IC10-Pad2)">
+      <node ref="IC10" pin="2"/>
+    </net>
+    <net code="13" name="Net-(IC10-Pad6)">
+      <node ref="IC10" pin="6"/>
+    </net>
+    <net code="14" name="Net-(IC10-Pad7)">
+      <node ref="IC10" pin="7"/>
+    </net>
+    <net code="15" name="Net-(IC10-Pad9)">
+      <node ref="IC10" pin="9"/>
+    </net>
+    <net code="16" name="Net-(IC10-Pad10)">
+      <node ref="IC10" pin="10"/>
+    </net>
+    <net code="17" name="Net-(IC10-Pad11)">
+      <node ref="IC10" pin="11"/>
+    </net>
+    <net code="18" name="Net-(IC10-Pad12)">
+      <node ref="IC10" pin="12"/>
+    </net>
+    <net code="19" name="Net-(IC10-Pad16)">
+      <node ref="IC10" pin="16"/>
+    </net>
+    <net code="20" name="Net-(IC10-Pad17)">
+      <node ref="IC10" pin="17"/>
+    </net>
+    <net code="21" name="Net-(IC10-Pad19)">
+      <node ref="IC10" pin="19"/>
+    </net>
+    <net code="22" name="Net-(IC10-Pad22)">
+      <node ref="IC10" pin="22"/>
+    </net>
+    <net code="23" name="Net-(IC10-Pad24)">
+      <node ref="IC10" pin="24"/>
+    </net>
+    <net code="24" name="Net-(IC10-Pad25)">
+      <node ref="IC10" pin="25"/>
+    </net>
+    <net code="25" name="Net-(IC10-Pad26)">
+      <node ref="IC10" pin="26"/>
+    </net>
+    <net code="26" name="Net-(IC10-Pad27)">
+      <node ref="IC10" pin="27"/>
+    </net>
+    <net code="27" name="Net-(IC10-Pad28)">
+      <node ref="IC10" pin="28"/>
+    </net>
+    <net code="28" name="Net-(IC10-Pad29)">
+      <node ref="IC10" pin="29"/>
+    </net>
+    <net code="29" name="Net-(IC10-Pad30)">
+      <node ref="IC10" pin="30"/>
+    </net>
+    <net code="30" name="Net-(IC10-Pad31)">
+      <node ref="IC10" pin="31"/>
+    </net>
+    <net code="31" name="Net-(IC10-Pad33)">
+      <node ref="IC10" pin="33"/>
+    </net>
+    <net code="32" name="Net-(IC10-Pad34)">
+      <node ref="IC10" pin="34"/>
+    </net>
+    <net code="33" name="Net-(IC10-Pad35)">
+      <node ref="IC10" pin="35"/>
+    </net>
+    <net code="34" name="Net-(IC10-Pad36)">
+      <node ref="IC10" pin="36"/>
+    </net>
+    <net code="35" name="Net-(IC10-Pad37)">
+      <node ref="IC10" pin="37"/>
+    </net>
+    <net code="36" name="Net-(IC10-Pad38)">
+      <node ref="IC10" pin="38"/>
+    </net>
+    <net code="37" name="Net-(IC10-Pad39)">
+      <node ref="IC10" pin="39"/>
+    </net>
+    <net code="38" name="Net-(IC10-Pad40)">
+      <node ref="IC10" pin="40"/>
+    </net>
+    <net code="39" name="Net-(IC10-Pad41)">
+      <node ref="IC10" pin="41"/>
+    </net>
+    <net code="40" name="/3.3V_M1">
+      <node ref="IC10" pin="42"/>
+    </net>
+    <net code="41" name="/V_BAT">
+      <node ref="IC10" pin="43"/>
+    </net>
+    <net code="42" name="/3.3V_M2">
+      <node ref="IC10" pin="44"/>
+    </net>
+    <net code="43" name="/GND_VBAT">
+      <node ref="IC10" pin="45"/>
+    </net>
+    <net code="44" name="Net-(IC10-Pad46)">
+      <node ref="IC10" pin="46"/>
+    </net>
+    <net code="45" name="Net-(IC10-Pad47)">
+      <node ref="IC10" pin="47"/>
+    </net>
+    <net code="46" name="Net-(IC10-Pad48)">
+      <node ref="IC10" pin="48"/>
+    </net>
+    <net code="47" name="Net-(IC10-Pad49)">
+      <node ref="IC10" pin="49"/>
+    </net>
+    <net code="48" name="Net-(IC10-Pad50)">
+      <node ref="IC10" pin="50"/>
+    </net>
+    <net code="49" name="Net-(IC10-Pad51)">
+      <node ref="IC10" pin="51"/>
+    </net>
+    <net code="50" name="Net-(IC10-Pad52)">
+      <node ref="IC10" pin="52"/>
+    </net>
+    <net code="51" name="Net-(IC10-Pad53)">
+      <node ref="IC10" pin="53"/>
+    </net>
+    <net code="52" name="Net-(IC10-Pad57)">
+      <node ref="IC10" pin="57"/>
+    </net>
+    <net code="53" name="Net-(IC10-Pad68)">
+      <node ref="IC10" pin="68"/>
+    </net>
+    <net code="54" name="Net-(IC10-Pad69)">
+      <node ref="IC10" pin="69"/>
+    </net>
+    <net code="55" name="Net-(IC10-Pad70)">
+      <node ref="IC10" pin="70"/>
+    </net>
+    <net code="56" name="Net-(IC10-Pad71)">
+      <node ref="IC10" pin="71"/>
+    </net>
+    <net code="57" name="Net-(IC1-Pad1)">
+      <node ref="IC1" pin="1"/>
+    </net>
+    <net code="58" name="Net-(IC1-Pad4)">
+      <node ref="IC4" pin="B2"/>
+      <node ref="IC1" pin="4"/>
+    </net>
+    <net code="59" name="Net-(IC2-Pad1)">
+      <node ref="IC2" pin="1"/>
+    </net>
+    <net code="60" name="Net-(IC2-Pad2)">
+      <node ref="IC2" pin="2"/>
+      <node ref="IC4" pin="B1"/>
+    </net>
+    <net code="61" name="Net-(IC10-Pad3)">
+      <node ref="IC3" pin="2"/>
+      <node ref="IC10" pin="3"/>
+    </net>
+    <net code="62" name="Net-(IC3-Pad1)">
+      <node ref="IC3" pin="1"/>
+    </net>
+    <net code="63" name="Net-(IC3-Pad4)">
+      <node ref="IC3" pin="4"/>
+      <node ref="IC4" pin="C2"/>
+    </net>
+    <net code="64" name="Net-(MC_LEFT_2-Pad1)">
+      <node ref="R6" pin="1"/>
+      <node ref="MC_LEFT_2" pin="1"/>
+    </net>
+    <net code="65" name="Net-(MC_RIGHT_2-Pad1)">
+      <node ref="R10" pin="1"/>
+      <node ref="MC_RIGHT_2" pin="1"/>
+    </net>
+    <net code="66" name="Net-(C11-Pad1)">
+      <node ref="R8" pin="1"/>
+      <node ref="MC_RIGHT_2" pin="3"/>
+      <node ref="C15" pin="1"/>
+      <node ref="R10" pin="2"/>
+      <node ref="C11" pin="1"/>
+      <node ref="R12" pin="1"/>
+      <node ref="MC_LEFT_2" pin="3"/>
+      <node ref="IC8" pin="A2"/>
+      <node ref="IC8" pin="A1"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="67" name="Net-(IC5-Pad1)">
+      <node ref="IC5" pin="1"/>
+    </net>
+    <net code="68" name="Net-(IC5-Pad4)">
+      <node ref="IC5" pin="4"/>
+      <node ref="IC8" pin="B2"/>
+    </net>
+    <net code="69" name="Net-(IC6-Pad1)">
+      <node ref="IC6" pin="1"/>
+    </net>
+    <net code="70" name="Net-(IC6-Pad2)">
+      <node ref="IC8" pin="B1"/>
+      <node ref="IC6" pin="2"/>
+    </net>
+    <net code="71" name="Net-(IC10-Pad20)">
+      <node ref="IC10" pin="20"/>
+      <node ref="IC7" pin="2"/>
+    </net>
+    <net code="72" name="Net-(IC7-Pad4)">
+      <node ref="IC7" pin="4"/>
+      <node ref="IC8" pin="C2"/>
+    </net>
+    <net code="73" name="Net-(IC7-Pad1)">
+      <node ref="IC7" pin="1"/>
+    </net>
+    <net code="74" name="Net-(IC10-Pad32)">
+      <node ref="R4" pin="1"/>
+      <node ref="IC10" pin="32"/>
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="75" name="Net-(IC10-Pad21)">
+      <node ref="IC10" pin="21"/>
+      <node ref="IC5" pin="2"/>
+    </net>
+    <net code="76" name="Net-(IC1-Pad2)">
+      <node ref="IC1" pin="2"/>
+      <node ref="IC10" pin="4"/>
+    </net>
+    <net code="77" name="Net-(IC10-Pad8)">
+      <node ref="IC10" pin="8"/>
+      <node ref="IC6" pin="4"/>
+    </net>
+    <net code="78" name="Net-(IC10-Pad5)">
+      <node ref="IC2" pin="4"/>
+      <node ref="IC10" pin="5"/>
+    </net>
+    <net code="79" name="Net-(J1-PadMP)">
+      <node ref="J1" pin="MP"/>
+    </net>
+    <net code="80" name="/VDD">
+      <node ref="Q1" pin="3"/>
+      <node ref="SW1" pin="2"/>
+      <node ref="U1" pin="6"/>
+      <node ref="J1" pin="2"/>
+      <node ref="U1" pin="1"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="81" name="Net-(J2-PadMP)">
+      <node ref="J2" pin="MP"/>
+    </net>
+    <net code="82" name="Net-(IC10-Pad55)">
+      <node ref="J2" pin="1"/>
+      <node ref="IC10" pin="55"/>
+      <node ref="JP1" pin="2"/>
+    </net>
+    <net code="83" name="Net-(IC10-Pad18)">
+      <node ref="R2" pin="1"/>
+      <node ref="R1" pin="2"/>
+      <node ref="IC10" pin="18"/>
+    </net>
+    <net code="84" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="IC10" pin="15"/>
+    </net>
+    <net code="85" name="Net-(D1-Pad3)">
+      <node ref="D1" pin="3"/>
+      <node ref="IC10" pin="13"/>
+    </net>
+    <net code="86" name="Net-(D1-Pad4)">
+      <node ref="D1" pin="4"/>
+      <node ref="IC10" pin="14"/>
+    </net>
+    <net code="87" name="Net-(IC10-Pad23)">
+      <node ref="IC10" pin="23"/>
+      <node ref="SW2" pin="1"/>
+    </net>
+  </nets>
+</export>

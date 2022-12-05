@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "New_Library")(type "Legacy")(uri "/Users/lieszandberg/Downloads/LIB_ADAU7002ACBZ-R7/New_Library.lib")(options "")(descr ""))
+  (lib (name "Soundrecorder-2.0-rescue")(type "Legacy")(uri "${KIPRJMOD}/Soundrecorder 2.0-rescue.lib")(options "")(descr ""))
+  (lib (name "IM69D130V01XTSA1")(type "Legacy")(uri "/Users/lieszandberg/Downloads/IM69D130V01XTSA1/IM69D130V01XTSA1.lib")(options "")(descr ""))
+  (lib (name "SoundRecorder_2.0")(type "KiCad")(uri "${KIPRJMOD}/Symbol_lib/New_Library_0.kicad_sym")(options "")(descr ""))
+)
